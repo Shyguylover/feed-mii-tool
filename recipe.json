@@ -5,121 +5,145 @@
     "list": [
         {
             "name": "Beef and Rice Casserole",
+			"german-name": "(Name here)",
             "ingredients_name": "Beef, Tomato, Rice",
             "value": "0b100010001000",
             "image": "no_image.jpg"
         }, {
             "name": "Meat Omelet",
+			"german-name": "(Name here)",
             "ingredients_name": "Beef, Pork, Egg",
             "value": "0b100100000001",
             "image": "no_image.jpg"
         }, {
             "name": "Beef & Salmon Barbecue",
+			"german-name": "(Name here)",
             "ingredients_name": "Beef, Salmon, Onion",
             "value": "0b110000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Beef with Tuna Sauce",
+			"german-name": "",
             "ingredients_name": "Beef, Tuna, Onion",
             "value": "0b101000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Pork & Salmon Stir-Fry",
+			"german-name": "",
             "ingredients_name": "Salmon, Pork, Onion",
             "value": "0b010100000010",
             "image": "no_image.jpg"
         }, {
             "name": "Pork with Mushroom Sauce",
+			"german-name": "",
             "ingredients_name": "Pork, Mushroom",
             "value": "0b000100100000",
             "image": "no_image.jpg"
         }, {
             "name": "Chicken & Salmon Cream Stew",
+			"german-name": "",
             "ingredients_name": "Salmon, Chicken, Flour",
             "value": "0b010001010000",
             "image": "no_image.jpg"
         }, {
             "name": "Pork Dumplings",
+			"german-name": "",
             "ingredients_name": "Pork, Flour",
             "value": "0b000100010000",
             "image": "no_image.jpg"
         }, {
             "name": "Sautéed Pork",
+			"german-name": "",
             "ingredients_name": "Pork, Onion",
             "value": "0b000100000010",
             "image": "no_image.jpg"
         }, {
             "name": "Sautéed Chicken",
+			"german-name": "",
             "ingredients_name": "Chicken, Onion",
             "value": "0b000001000010",
             "image": "no_image.jpg"
         }, {
             "name": "Sushi",
+			"german-name": "",
             "ingredients_name": "Salmon, Tuna, Rice",
             "value": "0b011000001000",
             "image": "no_image.jpg"
         }, {
             "name": "Fried Rice",
+			"german-name": "",
             "ingredients_name": "Pork, Rice, Egg",
             "value": "0b000100001001",
             "image": "no_image.jpg"
         }, {
             "name": "Potato Gratin",
+			"german-name": "",
             "ingredients_name": "Mushroom, Flour, Potato",
             "value": "0b000000110100",
             "image": "no_image.jpg"
         }, {
             "name": "Roast Beef",
+			"german-name": "",
             "ingredients_name": "Beef, Onion",
             "value": "0b100000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Roast Chicken",
+			"german-name": "",
             "ingredients_name": "Chicken, Onion",
             "value": "0b000001000010",
             "image": "no_image.jpg"
         }, {
             "name": "Meatballs",
+			"german-name": "",
             "ingredients_name": "Beef, Pork, Chicken",
             "value": "0b100101000000",
             "image": "no_image.jpg"
         }, {
             "name": "Beef Pie",
+			"german-name": "",
             "ingredients_name": "Beef, Flour, Egg",
             "value": "0b100000010001",
             "image": "no_image.jpg"
         }, {
             "name": "Hashed Beef",
+			"german-name": "",
             "ingredients_name": "Beef, Tomato, Onion",
             "value": "0b100010000010",
             "image": "no_image.jpg"
         }, {
             "name": "Beef Curry",
+			"german-name": "",
             "ingredients_name": "Beef, Rice, Potato, Onion",
             "value": "0b100000001110",
             "image": "no_image.jpg"
         }, {
             "name": "Meat Loaf",
+			"german-name": "",
             "ingredients_name": "Beef, Mushroom, Onion",
             "value": "0b100000100010",
             "image": "no_image.jpg"
         }, {
             "name": "Potato Croquettes",
+			"german-name": "",
             "ingredients_name": "Flour, Potato, Egg",
             "value": "0b000000010101",
             "image": "no_image.jpg"
         }, {
             "name": "Pork & Egg Stir-Fry",
+			"german-name": "",
             "ingredients_name": "Pork, Onion, Egg",
             "value": "0b000100000011",
             "image": "no_image.jpg"
         }, {
             "name": "Seafood Paelle",
+			"german-name": "",
             "ingredients_name": "Salmon, Tuna, Rice",
             "value": "0b011000001000",
             "image": "no_image.jpg"
         }, {
             "name": "Pork Chop Suey",
+			"german-name": "",
             "ingredients_name": "Pork, Mushroom, Egg",
             "value": "0b000100100001",
             "image": "no_image.jpg"
